@@ -15,7 +15,7 @@ public class Memo {
         this.title = title;
         this.contents = contents;
         image = new ArrayList<Drawable>();
-        int hello;
+        int hellos;
     }
 
     public String getTitle() {
